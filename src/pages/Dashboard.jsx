@@ -22,7 +22,7 @@ const tasks = useLoaderData()
   return(
     <SimpleGrid spacing={10} minChildWidth="300px" marginTop="20px">
  {tasks && tasks.map(task => (
-        <Card key={task.id} borderTop="8px" borderColor="purple.400" bg="white">
+        <Card key={task.id} borderTop="8px" borderColor="blue.400" bg="white">
 
           <CardHeader color="gray.700">
             <Flex gap={5}>

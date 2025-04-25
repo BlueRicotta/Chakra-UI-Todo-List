@@ -1,0 +1,165 @@
+sc : DeepSeek
+Absolutely! Here are 10 more IT-related tasks in the same format, each with a Title, Short Description, and 10 different authors (2 female, 8 male).
+
+1. Task Title: "Secure File Transfer Tool"
+Short Description:
+Develop a CLI tool in Python that encrypts files (AES-256) before transferring them over SFTP/SCP. Include checksum verification and a logging system for failed transfers.
+
+Authors:
+Olivia Shaw (Female)
+Ava Mitchell (Female)
+Benjamin Hayes (Male)
+Samuel Grant (Male)
+Christopher Wolfe (Male)
+Aaron Silva (Male)
+Kevin Rhodes (Male)
+Tyler Nguyen (Male)
+Jordan Reeves (Male)
+Derek Simmons (Male)
+
+2. Task Title: "Server Health Dashboard"
+Short Description:
+Build a web-based dashboard (React + Flask) displaying real-time server metrics (CPU, RAM, disk space) fetched from Prometheus. Add alerting for critical thresholds.
+
+Authors:
+Emma Lawson (Female)
+Zoe Carter (Female)
+Brandon Pierce (Male)
+Evan Holt (Male)
+Logan Fisher (Male)
+Caleb Ramsey (Male)
+Dylan Foster (Male)
+Jack Bennett (Male)
+Luke Harrison (Male)
+Grayson Cole (Male)
+
+3. Task Title: "Password Manager CLI"
+Short Description:
+Create a command-line password manager in Python that stores credentials securely (SQLite + bcrypt), allows generation of strong passwords, and supports search/export.
+
+Authors:
+Hannah Brooks (Female)
+Mia Zhang (Female)
+Jason Reed (Male)
+Adam Cole (Male)
+Henry Ford (Male)
+Oscar Miles (Male)
+Victor Cruz (Male)
+Ian Wallace (Male)
+Patrick Stone (Male)
+Trevor Fox (Male)
+
+4. Task Title: "Automated Incident Response Bot"
+Short Description:
+Develop a Slack/Discord bot that triggers IT incident workflows (e.g., restart services, notify teams) based on alerts from monitoring tools like Zabbix or PagerDuty.
+
+Authors:
+Lily Chen (Female)
+Chloe Adams (Female)
+Anthony Russo (Male)
+Marcus Lee (Male)
+Vincent Park (Male)
+George Hill (Male)
+Simon Wu (Male)
+Maxwell Knight (Male)
+Eliot Greene (Male)
+Felix Rivera (Male)
+
+5. Task Title: "Wi-Fi Security Auditor"
+Short Description:
+Write a Python script that scans nearby Wi-Fi networks, checks for weak encryption (WEP/WPA2), and flags vulnerable devices using scapy.
+
+Authors:
+Grace Turner (Female)
+Scarlett Wu (Female)
+Leonardo Santos (Male)
+Julian Price (Male)
+Cameron Burke (Male)
+Theo Henderson (Male)
+Brayden Lynch (Male)
+Rafael Ortega (Male)
+Dante Moreno (Male)
+Kai Sullivan (Male)
+
+6. Task Title: "Dark Web Monitoring Tool"
+Short Description:
+Create a script that checks leaked credential databases (via HaveIBeenPwned API) and alerts users if their emails/passwords appear in breaches.
+
+Authors:
+Sophie Bennett (Female)
+Isabella Hayes (Female)
+Dominic Vega (Male)
+Xavier Quinn (Male)
+Colton Frost (Male)
+Preston Byrd (Male)
+Gavin Chase (Male)
+Josiah Rhodes (Male)
+Maddox Blake (Male)
+Rowan Pierce (Male)
+
+7. Task Title: "Cloud Cost Optimizer"
+Short Description:
+Build a tool (AWS SDK/Boto3) to identify idle EC2 instances, underutilized RDS databases, and suggest cost-saving measures.
+
+Authors:
+Abigail Stone (Female)
+Evelyn Rhodes (Female)
+Zachary Huang (Male)
+Tristan Cole (Male)
+Damien Shaw (Male)
+Jasper Flynn (Male)
+Ryder Sutton (Male)
+Sawyer Ellis (Male)
+Knox Malone (Male)
+Phoenix Grant (Male)
+
+8. Task Title: "Log Anomaly Detector"
+Short Description:
+Design a Python script using ML (scikit-learn) to detect unusual patterns in server logs (e.g., brute-force attacks) and flag them for review.
+
+Authors:
+Natalie Kim (Female)
+Victoria Scott (Female)
+Asher Bennett (Male)
+Silas Porter (Male)
+Atticus Reeves (Male)
+Declan Wolfe (Male)
+Finn Gallagher (Male)
+Orion Vega (Male)
+Crus Lin (Male)
+Quentin Marsh (Male)
+
+9. Task Title: "Kubernetes Auto-Healing System"
+Short Description:
+Develop a Helm chart that automatically restarts failed pods, scales deployments based on CPU, and notifies Slack if crashes persist.
+
+Authors:
+Audrey Lane (Female)
+Penelope Cruz (Female)
+Matteo Rossi (Male)
+Enzo Ferrari (Male)
+Luca Marino (Male)
+Dario Conti (Male)
+Marco Bianchi (Male)
+Giovanni Rizzo (Male)
+Sergio Esposito (Male)
+Riccardo Romano (Male)
+
+10. Task Title: "Multi-Factor Auth (MFA) Bypass Tester"
+Short Description:
+Create a penetration testing tool that simulates MFA bypass techniques (e.g., session hijacking) to assess vulnerability in web apps.
+
+Authors:
+Leah Patel (Female)
+Ruby Foster (Female)
+Ronan Blake (Male)
+Kieran O’Connor (Male)
+Callum Duffy (Male)
+Eamon Doyle (Male)
+Finley Byrne (Male)
+Cillian Murphy (Male)
+Tiernan Walsh (Male)
+Lorcan Quinn (Male)
+
+Need More?
+Want adjustments (e.g., more cybersecurity, DevOps, or AI tasks)? Let me know!

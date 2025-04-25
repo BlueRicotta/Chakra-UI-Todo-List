@@ -3,6 +3,7 @@ import React from 'react'
 import { Form, redirect } from "react-router-dom"
 
 export default function Create() {
+  
   return (
       <Box maxW="480px" marginTop="20px">
         <Form method="post" action="/create">
@@ -18,7 +19,7 @@ export default function Create() {
             </FormControl>
 
             <FormControl display="flex" alignItems="center" mb="40px" marginTop="20px">
-              <Checkbox name="isPriority" size="lg" colorScheme="purple" />
+              <Checkbox name="isPriority" size="lg" colorScheme="blue" />
               <FormLabel mb="0" ml="10px">Make this Priority</FormLabel>
             </FormControl>
 

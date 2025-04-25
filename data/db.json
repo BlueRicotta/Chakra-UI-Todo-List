@@ -2,73 +2,73 @@
   "tasks": [
     {
        "id":1,
-       "title":"Fix the navbar",
-       "description":"There is an issue with the navbar on the homepage. It is not displaying correctly on mobile devices.",
-       "author":"Mario",
-       "img": "/img/mario.png"
+       "title":"Secure File Transfer Tool",
+       "description":"Develop a CLI tool in Python that encrypts files (AES-256) before transferring them over SFTP/SCP. Include checksum verification and a logging system for failed transfers.",
+       "author":"Benjamin Hayes",
+       "img": "/img/guy1.png"
     },
     {
        "id":2,
-       "title":"Add links to the footer",
-       "description":"The footer is currently empty. We need to add some links to important pages on the site.",
-       "author":"Yoshi",
-       "img": "/img/yoshi.png"
+       "title":"Server Health Dashboard",
+       "description":"Build a web-based dashboard (React + Flask) displaying real-time server metrics (CPU, RAM, disk space) fetched from Prometheus. Add alerting for critical thresholds.",
+       "author":"Brandon Pierce",
+       "img": "/img/guy2.png"
     },
     {
        "id":3,
-       "title":"Update the contact form",
-       "description":"The contact form is not working properly. We need to fix the form validation and make sure the form submissions are being sent to the correct email address.",
-       "author":"Peach",
-       "img": "/img/peach.png"
+       "title":"Password Manager CLI",
+       "description":"TCreate a command-line password manager in Python that stores credentials securely (SQLite + bcrypt), allows generation of strong passwords, and supports search/export.",
+       "author":"Jason Reedch",
+       "img": "/img/guy3.png"
     },
     {
        "id":4,
-       "title":"Improve the site's performance",
-       "description":"The site is currently running slow. We need to optimize images and minify CSS and JavaScript to improve the site's loading speed.",
-       "author":"Luigi",
-       "img": "/img/luigi.png"
+       "title":"Automated Incident Response Bot",
+       "description":"Develop a Slack/Discord bot that triggers IT incident workflows (e.g., restart services, notify teams) based on alerts from monitoring tools like Zabbix or PagerDuty.",
+       "author":"Anthony Russo",
+       "img": "/img/guy4.png"
     },
     {
        "id":5,
-       "title":"Add social media links",
-       "description":"There are no links to our social media profiles on the site. We need to add links to our Facebook, Twitter, and Instagram accounts in the header and footer.",
-       "author":"Mario",
-       "img": "/img/mario.png"
+       "title":"Wi-Fi Security Auditor",
+       "description":"Write a Python script that scans nearby Wi-Fi networks, checks for weak encryption (WEP/WPA2), and flags vulnerable devices using scapy.",
+       "author":"Leonardo Santos",
+       "img": "/img/guy5.png"
     },
     {
        "id":6,
-       "title":"Implement a search feature",
-       "description":"The site does not have a search feature. We need to add a search bar in the header that allows users to search for specific pages or products on the site.",
-       "author":"Yoshi",
-       "img": "/img/yoshi.png"
+       "title":"Dark Web Monitoring Tool",
+       "description":"Create a script that checks leaked credential databases (via HaveIBeenPwned API) and alerts users if their emails/passwords appear in breaches.",
+       "author":"Sophie Bennett",
+       "img": "/img/female1.png"
     },
     {
        "id":7,
-       "title":"Fix the responsive layout",
-       "description":"The site's layout is not responsive. It does not look good on mobile devices. We need to make sure the site looks good on all devices.",
-       "author":"Peach",
-       "img": "/img/peach.png"
+       "title":"Cloud Cost Optimizer",
+       "description":"Build a tool (AWS SDK/Boto3) to identify idle EC2 instances, underutilized RDS databases, and suggest cost-saving measures.",
+       "author":"Abigail Stone",
+       "img": "/img/female2.png"
     },
     {
        "id":8,
-       "title":"Add a newsletter signup form",
-       "description":"We do not have a way for users to sign up for our newsletter. We need to add a newsletter signup form in the footer that allows users to enter their email address.",
-       "author":"Luigi",
-       "img": "/img/luigi.png"
+       "title":"Log Anomaly Detector.",
+       "description":"Design a Python script using ML (scikit-learn) to detect unusual patterns in server logs (e.g., brute-force attacks) and flag them for review.",
+       "author":"Asher Bennett",
+       "img": "/img/guy4.png"
     },
     {
        "id":9,
-       "title":"Improve the design",
-       "description":"The site's design is outdated. We need to update the site's color scheme and font to make it look more modern.",
-       "author":"Mario",
-       "img": "/img/mario.png"
+       "title":"Kubernetes Auto-Healing System",
+       "description":"Develop a Helm chart that automatically restarts failed pods, scales deployments based on CPU, and notifies Slack if crashes persist.",
+       "author":"Matteo Rossi ",
+       "img": "/img/guy5.png"
     },
     {
        "id":10,
-       "title":"Add more products to the online store",
-       "description":"We need to add more products to the online store. We also need to add categories and filters to make it easier for users to find what they are looking for.",
-       "author":"Yoshi",
-       "img": "/img/yoshi.png"
+       "title":"Multi-Factor Auth (MFA) Bypass Tester",
+       "description":"Create a penetration testing tool that simulates MFA bypass techniques (e.g., session hijacking) to assess vulnerability in web apps.",
+       "author":"Ronan Blake",
+       "img": "/img/guy1.png"
     }
  ]
 }
